@@ -1,7 +1,7 @@
 # Buck Converter 24V → 5V @ 2A
 
 A complete design and simulation of a step-down (Buck) DC-DC converter 
-in LTspice, converting 24V input to 5V output at 2A load current.
+in LTspice, converting 24V input to 5V output at 2A load current. 
 
 ## 📋 Specifications
 
